@@ -8,3 +8,6 @@
 # MBTI
 - ISTP
 - ISFP
+
+# help me
+- 살려줘 다음단계 줘!
